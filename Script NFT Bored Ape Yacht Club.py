@@ -13,7 +13,7 @@ import json
 
 adresse_generique = "https://bafybeihpjhkeuiq3k6nqa3fkgeigeri7iebtrsuyuey5y6vy36n345xmbi.ipfs.dweb.link/"
 
-x=5964
+x=1
 while x <10000:
    try:
       #URL = json.loads(requests.get(str(adresse_generique)+str(x)).content)
