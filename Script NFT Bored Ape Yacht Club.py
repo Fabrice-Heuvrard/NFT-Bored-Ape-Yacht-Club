@@ -2,8 +2,8 @@
 A partir de l'adresse IPFS, récup du NFT au format PNG
 Auteur: Fabrice Heuvrard
 Date : 18/04/2022
-Entrée : Adresse IPVS du de l'image qui s'incrémente
-Résultat : fichier svg des NFT
+Entrée : Adresse IPFS du de l'image qui s'incrémente
+Résultat : fichier png des NFT
 """
 
 # importation des modules nécessaires
